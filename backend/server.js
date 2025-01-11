@@ -58,6 +58,13 @@ app.get('/api/items/search', async (req, res) => {
 });
 
   
+// Chat route to process natural language queries
+
+app.post('/api/chat', async (req, res) => {
+  const { query } = req.body;
+  // Process the query and return a response
+  res.json({ reply: `You asked: "${query}". This feature is under development.` });
+});
 
 
 
