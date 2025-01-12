@@ -96,16 +96,3 @@ cd ordering-website
 
 Feel free to fork this repository and submit pull requests. If you find any issues or have ideas for improvement, open an issue in the repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-### How to Use the README
-
-1. Replace `your-username` in the clone command with your actual GitHub username.
-2. Modify the license section if needed.
-3. You can customize it further with any other details you'd like to add about the app.
-
-This README should give users an overview of the application, explain how to set it up, and provide basic instructions on how to use it.
